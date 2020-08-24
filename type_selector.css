@@ -1,0 +1,12 @@
+h1{
+	color:red;
+}
+pre,h2{
+	font-style:italic;
+	color:green;
+}
+
+h2{
+	text-decoration:underline;
+	color:blue;
+}
